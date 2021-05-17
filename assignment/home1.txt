@@ -1,0 +1,25 @@
+1.If we take the bottom 4-bit number as the biggest base, then five decimal numbers are 9 9 15 9 6.And hexadecimal numbers are 9 9 F 9 6.
+
+2.
+  1 ---> 0 0 0 1
+  1 ---> 0 0 0 1
+  9 ---> 1 0 0 1
+  9 ---> 1 0 0 1
+  6 ---> 0 1 1 0. 
+
+  I have no idea what this is exactly, but it does like a capital j.
+	
+  0x:
+  F ---> 1 1 1 1
+  8 ---> 1 0 0 0
+  F ---> 1 1 1 1
+  8 ---> 1 0 0 0
+  8 ---> 1 0 0 0
+
+  I thinks it's a capital f.
+
+3.
+  As for 'B'
+  5 numbers is not enough.
+  But 'N' may be Okay.
+		
